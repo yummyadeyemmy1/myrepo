@@ -1,2 +1,1 @@
-Hello from LearnLinuxTV
-This is another line
+Hello from LearnLinux.tv
